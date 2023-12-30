@@ -4,7 +4,7 @@
 [![InspectMe on Unity Asset Store](https://img.shields.io/badge/Download-Latest%20Version-green)](https://assetstore.unity.com/packages/slug/256329)
 [![Official Website](https://img.shields.io/badge/Visit-Official%20Website-blue)](https://divinitycodes.de)
 
-[![Discord](https://img.shields.io/discord/1190347094645538897?label=Join%20us%20on%20Discord)](https://discord.gg/https://discord.gg/jp33dXrG)
+[![Discord](https://img.shields.io/discord/1190347094645538897?label=Join%20us%20on%20Discord)](https://discord.gg/https://discord.gg/ZGbncTbbKr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivinityCodes?style=social)](https://twitter.com/DivinityCodes)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/InspectMe?style=social)](https://www.reddit.com/r/InspectMe)
 
